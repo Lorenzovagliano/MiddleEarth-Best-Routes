@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Erebor",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32631" } },
+"features": [
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ 1259345.196258211974055, 1184847.670359308598563 ] } }
+]
+}

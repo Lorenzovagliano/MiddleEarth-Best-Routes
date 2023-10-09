@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Rivendell",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32631" } },
+"features": [
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ 881104.838144254637882, 1054419.676460620947182 ] } }
+]
+}
