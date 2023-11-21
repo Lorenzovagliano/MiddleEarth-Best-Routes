@@ -17,6 +17,8 @@ Additionally, the contour lines needed to be transformed into a raster represent
   
 ### **Conclusions**
 Ultimately, the paths of least cost closely mirrored the routes actually taken by the characters, which can be referenced on the interactive map available on the [Lotrproject](http://lotrproject.com/map/) website.
+<p>
+Since both expeditions were looking to avoid roads at one point or another, we can also conclude that the path of least cost is more appropriate.
 
 ---
 
