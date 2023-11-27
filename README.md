@@ -1,4 +1,4 @@
-## **MiddleEarth's Best Routes**
+## **Middle Earth's Best Routes**
 ---
 In this project, data representing fictitious geographical features of Middle-earth, a portion of J.R.R Tolkien's universe, was collected. These datasets, crafted by the [ME-DEM](https://github.com/jvangeld/ME-GIS) project team and amalgamated with a map by [bburns](https://github.com/bburns/Arda), encompass information on roads, rivers, contour lines, coastlines, terrain classifications, cities, and various other diverse elements.
 <p>
