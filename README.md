@@ -4,7 +4,7 @@ In this project, data representing fictitious geographical features of Middle-ea
 <p>
 The project's ultimate goal is to analyze the optimal routes for two expeditions. The first pertaining to Thorin Oakenshield's company, which took Bilbo from the Shire to Rivendell and then from Rivendell to the Lonely Mountain of Erebor. The second expedition involved Frodo's mission to destroy the ring, leading from the Shire to Rivendell and then from Rivendell to Mount Doom in Mordor.
 <p>
-Two analyses were conducted to determine the best path for each scenario. One considered only the roadways, trying to find the Shortest Path via roads. The other calculated the path of least elevation cost, essentially finding the flattest and most navigable route(on average).
+Two analyses were conducted to determine the best path for each scenario. One considered only the roadways, trying to find the Shortest Path via roads. The other calculated the path of least elevation cost, essentially finding the flattest and most navigable route(in sum).
 
 ---
 
